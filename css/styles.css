@@ -1979,6 +1979,30 @@ progress {
 .table-borderless > :not(caption) > * > * {
   border-bottom-width: 0;
 }
+#active1:hover{
+  color: #ff499e;
+  background: transparent;
+}
+
+#active2:hover{
+  color: #d264b6;
+  background: transparent;
+}
+
+#active3:hover{
+  color: #a480cf;
+  background: transparent;
+}
+
+#active4:hover{
+  color: yellow;
+  background: transparent;
+}
+
+#active5:hover{
+  color: #49b6ff;
+  background: transparent;
+}
 
 .table-striped > tbody > tr:nth-of-type(odd) {
   --bs-table-accent-bg: var(--bs-table-striped-bg);
